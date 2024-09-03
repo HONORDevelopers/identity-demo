@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IdentityKitDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="result">result</string>
+    <string name="enableRecognition">initBot</string>
+    <string name="getRecognitionResult">getBotResult</string>
+    <string name="disableRecognition">releaseBot</string>
+    <string name="hasMinorsRecognition">hasMinorsRecognition</string>
+    <string name="updateModel">updateModel</string>
+    <string name="getModelVersion">getModelVersion</string>
+    <string name="updateAppList">updateAppList</string>
+    <string name="getAppListVersion">getAppListVersion</string>
+</resources>
